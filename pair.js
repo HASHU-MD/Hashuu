@@ -40,8 +40,8 @@ const config = {
     MAX_RETRIES: 3,
     GROUP_INVITE_LINK: 'https://chat.whatsapp.com/LdsQWrPsEHOGLH94fiuQ7i?mode=ac_t',
     ADMIN_LIST_PATH: './admin.json',
-    IMAGE_PATH: 'https://i.ibb.co/qFJ08v4J/da3ed85877e73e60.jpg',
-    NEWSLETTER_JID: '120363420985544024@newsletter',
+    IMAGE_PATH: 'https://files.catbox.moe/vbo0vq.png',
+    NEWSLETTER_JID: '120363395674230271@newsletter',
     NEWSLETTER_MESSAGE_ID: '428',
     OTP_EXPIRY: 300000,
     NEWS_JSON_URL: '',
@@ -50,13 +50,13 @@ const config = {
     OWNER_NUMBER: '94743281705',
     BOT_VERSION: '1.0.0',
     BOT_FOOTER: '> © Yovi',
-    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbBB7X96mYPMbf8not2q',
+    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VazhnLzK0IBdwXG4152o',
     BUTTON_IMAGES: {
-        ALIVE: 'https://files.catbox.moe/9uuvfz.jpg',
-        MENU: 'https://files.catbox.moe/mdxna4.jpg',
-        OWNER: 'https://files.catbox.moe/fkw8ac.jpg',
-        SONG: 'https://files.catbox.moe/fkw8ac.jpg',
-        VIDEO: 'https://files.catbox.moe/fkw8ac.jpg'
+        ALIVE: 'https://files.catbox.moe/vbo0vq.png',
+        MENU: 'https://files.catbox.moe/vbo0vq.png',
+        OWNER: 'https://files.catbox.moe/vbo0vq.png',
+        SONG: 'https://files.catbox.moe/vbo0vq.png',
+        VIDEO: 'https://files.catbox.moe/vbo0vq.png'
     }
 };
 
